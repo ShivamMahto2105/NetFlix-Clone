@@ -19,10 +19,10 @@ It replicates the look and feel of Netflix's homepage with a hero section, respo
 
 ## 🖼️ Preview
 ### Desktop View
-![Desktop Screenshot](assets/preview-desktop.png)
+![Desktop Screenshot](https://github.com/ShivamMahto2105/NetFlix-Clone/blob/main/Desktop.png)
 
 ### Mobile View
-![Mobile Screenshot](assets/preview-mobile.png)
+![Mobile Screenshot](https://github.com/ShivamMahto2105/NetFlix-Clone/blob/main/Phone.jpg)
 
 ---
 
